@@ -1,0 +1,15 @@
+.outer-pokedex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#pokedex-heading{
+    letter-spacing: 4px ;
+    margin: 0 auto;
+}
+
+.outer-pokedex a{
+    color: black;
+}
+
